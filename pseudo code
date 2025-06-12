@@ -1,0 +1,20 @@
+say (press enter to play)
+if user does not press play
+go back to line 1
+if user does not press enter
+start moving car
+wait 8 seconds
+add car in 1 out of 3 lanes
+if user hits car
+go back to line 1
+if user does not hits car
+wait 4 seconds
+add another car
+
+
+
+
+
+
+
+
